@@ -1,6 +1,6 @@
 import logo from "../assets/logo";
 
-const blogData = {
+const blogData={
   name: "Underreacted",
   image: logo,
   about: "A blog about learning React",
